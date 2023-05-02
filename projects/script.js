@@ -71,5 +71,5 @@ links.forEach((link) => {
 const image = document.getElementById('image');
 
 image.addEventListener('click', function() {
-  window.location.href = '/project-1/project-1.html';
+  window.location.href = 'https://draunzler.github.io/personal-website/projects/project-1/project-1.html';
 });
